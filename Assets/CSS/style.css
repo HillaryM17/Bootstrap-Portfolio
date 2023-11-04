@@ -3,13 +3,38 @@ body{
     background-color: #faf2e7;
 }
 
-
-/* .navbar{
-    background-color: none; 
-}  */
+/* navBar stlye */
 
 .navbar a{
     color: #656d4f;
+    font-weight: 500;
 }
 
+
+/* heroBar style */
+
+.heroBar{
+    padding: 
+}
+
+.heroBar h1,h4{
+color: #656d4f;
+
+}
+
+.heroBar a {
+    background-color: 
+}
+
+.heroBar button:hover {
+ background-color: #faf2e7;
+ color:#656d4f; 
+ box-shadow: 5px 5px 5px #656d4f;
+}
+
+.heroBar button{
+    color: #faf2e7;
+    background-color:#656d4f;
+    border-color: #656d4f;
+}
 
