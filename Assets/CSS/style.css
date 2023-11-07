@@ -3,7 +3,7 @@ body{
     background-color: #faf2e7;
 }
 
-/* navBar stlye */
+/* navBar style */
 
 .navbar a{
     color: #656d4f;
@@ -13,10 +13,6 @@ body{
 
 
 /* heroBar style */
-
-/* .heroBar {
-   height: 100vh;
-} */
 
 .heroBar h1,h4{
 color: #656d4f;
@@ -65,3 +61,7 @@ color: #656d4f;
 .card-body a:hover{
     color:#9b9b84;
 }
+
+
+/* Contact Style */
+
