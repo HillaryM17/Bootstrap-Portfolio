@@ -8,23 +8,21 @@ body{
 .navbar a{
     color: #656d4f;
     font-weight: 500;
+    font-family: Fira Sans;
 }
 
 
 /* heroBar style */
 
-.heroBar{
-    padding: 
-}
+/* .heroBar {
+   height: 100vh;
+} */
 
 .heroBar h1,h4{
 color: #656d4f;
-
+font-family: Fira Sans;
 }
 
-.heroBar a {
-    background-color: 
-}
 
 .heroBar button:hover {
  background-color: #faf2e7;
@@ -36,5 +34,34 @@ color: #656d4f;
     color: #faf2e7;
     background-color:#656d4f;
     border-color: #656d4f;
+    font-family: Fira Sans;
 }
 
+
+/* Work Grid Layout Style */
+
+.card {
+    background-color: #faf2e7;
+    color:#656d4f; 
+    font-family: Fira Sans;
+}
+
+.card img{
+    height: 500px;
+    width: auto; 
+}
+
+.row2 .card img {
+
+    height: 300px;
+    width:auto;
+}
+
+.card-body a{
+text-decoration: none;
+color: #656d4f;
+}
+
+.card-body a:hover{
+    color:#9b9b84;
+}
